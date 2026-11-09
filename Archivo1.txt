@@ -1,5 +1,1 @@
-this is 1
-
-modificarem s'arxiu per emplear el GitHub/commit/diff etc....
-
-avui fa fred.
+One
